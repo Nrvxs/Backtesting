@@ -1,2 +1,2 @@
 # Backtesting
-Private Repository, for Zach and I
+This is the repository for research conducted by Zach Youngblood and Nathanial Cefalu-Schwartz 
